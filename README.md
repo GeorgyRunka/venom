@@ -2,7 +2,7 @@
 ## Проект выполнил Сергей Репин
 
 В проекте используются:
--HTML
--Css
--JavaScript
--Normalize
+- HTML
+- CSS
+- JavaScript
+- Normalize
